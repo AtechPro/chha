@@ -1,4 +1,4 @@
-# 🏠 Centralized Hub Home Automation
+# 🏠 Centralized Hub Home Automation (CHHA)
 
 > 🧑‍💻 Developed by **Amirul Qayyum Sikambar**  
 > 🎓 Final Year Project @ Universiti Malaysia Sabah (FCI)  
