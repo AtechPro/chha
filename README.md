@@ -1,7 +1,7 @@
 # 🏠 Centralized Hub Home Automation
 
 > 🧑‍💻 Developed by **Amirul Qayyum Sikambar**  
-> 🎓 Final Year Project @ Universiti Malaysia Sabah (Fakulti Komputing & Informatik)  
+> 🎓 Final Year Project @ Universiti Malaysia Sabah (FCI)  
 > ✉️ amirul2278@gmail.com
 
 ---
